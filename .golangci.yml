@@ -4,12 +4,10 @@ formatters:
   enable:
     - gofmt         # Standard Go formatting
     - goimports     # Import formatting and organization
+    - gci           # Canonical import grouping and formatting
+    - gofumpt       # Stricter gofmt with additional style rules
 
-  settings:
-    goimports:
-      # Organize imports with project prefix first
-      local-prefixes:
-        - github.com/nnnkkk7/gopin
+  settings: {}
 
 linters:
   # Start with no defaults and explicitly enable linters
