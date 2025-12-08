@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/gopin.png" alt="gopin" />
+</p>
+
 # gopin
 
 [![CI](https://github.com/nnnkkk7/gopin/actions/workflows/ci.yml/badge.svg)](https://github.com/nnnkkk7/gopin/actions/workflows/ci.yml)
